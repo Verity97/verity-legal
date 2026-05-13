@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dog Translator AI – Legal</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f7f7f5;
+      color: #1f2933;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #6b4eff, #ff8a65);
+      color: white;
+      padding: 48px 20px;
+      text-align: center;
+    }
+    header h1 { margin: 0; font-size: 2.2rem; }
+    header p { margin-top: 10px; opacity: 0.95; }
+    main {
+      max-width: 900px;
+      margin: 32px auto;
+      padding: 0 20px 60px;
+    }
+    section {
+      background: white;
+      border-radius: 18px;
+      padding: 28px;
+      margin-bottom: 22px;
+      box-shadow: 0 8px 28px rgba(0,0,0,0.06);
+    }
+    h2 { margin-top: 0; color: #2d3748; }
+    h3 { margin-top: 24px; }
+    a { color: #5a45ff; }
+    .small { font-size: 0.95rem; color: #5f6b7a; }
+    footer {
+      text-align: center;
+      padding: 30px;
+      color: #718096;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+
+<body>
+<header>
+  <h1>Dog Translator AI – Legal Information</h1>
+  <p>Terms of Use, Privacy Policy, Disclaimer & Contact</p>
+  <p class="small">Last updated: [DATE]</p>
+</header>
+
+<main>
+
+<section>
+  <h2>1. App Information</h2>
+  <p>
+    Dog Translator AI is a mobile application that offers AI-assisted dog behavior interpretation,
+    playful dog “translation” features, personalized dog profiles, daily mood and behavior insights,
+    and related entertainment and educational features.
+  </p>
+  <p>
+    The app is provided by:
+  </p>
+  <p>
+    <strong>[Knut Bley]</strong><br>
+    Email: <a href="mailto:[knutbley@outlook.com]">[knutbley@outlook.com]</a><br>
+    Address: [Klosterstraße 1, 26676 Barßel]<br>
+    Country: Germany
+  </p>
+</section>
+
+<section>
+  <h2>2. Terms of Use</h2>
+
+  <h3>2.1 Acceptance of Terms</h3>
+  <p>
+    By downloading, accessing, or using Dog Translator AI, you agree to these Terms of Use.
+    If you do not agree, please do not use the app.
+  </p>
+
+  <h3>2.2 Purpose of the App</h3>
+  <p>
+    Dog Translator AI provides playful, AI-assisted interpretations of dog behavior, sounds,
+    mood, and user-provided information. The app is intended for entertainment, educational,
+    and general informational purposes only.
+  </p>
+
+  <h3>2.3 No Veterinary Advice</h3>
+  <p>
+    Dog Translator AI does not provide medical, veterinary, diagnostic, emergency, or professional
+    animal care advice. Results, reports, alerts, translations, or behavioral interpretations must
+    not be treated as medical conclusions.
+  </p>
+  <p>
+    If your dog appears ill, injured, distressed, aggressive, unusually lethargic, in pain,
+    or if you are unsure about your dog’s condition, contact a qualified veterinarian immediately.
+  </p>
+
+  <h3>2.4 AI Accuracy Disclaimer</h3>
+  <p>
+    AI-generated outputs may be inaccurate, incomplete, delayed, or unsuitable for your specific
+    situation. Dog behavior can be complex and depends on many factors including environment,
+    health, breed, training, history, age, and individual personality.
+  </p>
+  <p>
+    You are responsible for independently evaluating all app outputs and using your own judgment.
+  </p>
+
+  <h3>2.5 User Responsibilities</h3>
+  <p>You agree not to use the app to:</p>
+  <ul>
+    <li>harm, neglect, endanger, or mistreat animals;</li>
+    <li>replace veterinary treatment or emergency care;</li>
+    <li>upload illegal, abusive, harmful, or infringing content;</li>
+    <li>reverse engineer, copy, resell, or misuse the app;</li>
+    <li>violate applicable laws or third-party rights.</li>
+  </ul>
+
+  <h3>2.6 Subscriptions and Payments</h3>
+  <p>
+    Dog Translator AI may offer paid subscriptions or premium features through Apple In-App Purchase.
+    Subscription terms, prices, renewal periods, trials, and cancellation options are shown in the
+    App Store or inside the app before purchase.
+  </p>
+  <p>
+    Subscriptions automatically renew unless cancelled at least 24 hours before the end of the
+    current billing period. You can manage or cancel subscriptions in your Apple ID settings.
+  </p>
+  <p>
+    Payments and refunds are handled by Apple according to Apple’s policies.
+  </p>
+
+  <h3>2.7 Free Access / Guest Access</h3>
+  <p>
+    The app may offer limited free access, guest usage, trial scans, or demo features.
+    Free access may be limited, changed, or discontinued at any time.
+  </p>
+
+  <h3>2.8 Intellectual Property</h3>
+  <p>
+    The app, design, branding, texts, features, software, and related content are owned by
+    [YOUR NAME / COMPANY NAME] or its licensors and are protected by applicable intellectual
+    property laws.
+  </p>
+
+  <h3>2.9 Termination</h3>
+  <p>
+    We may suspend or restrict access to the app if users violate these Terms, misuse the service,
+    or create legal, technical, or safety risks.
+  </p>
+
+  <h3>2.10 Limitation of Liability</h3>
+  <p>
+    To the maximum extent permitted by law, we are not liable for indirect, incidental, consequential,
+    special, or punitive damages, loss of data, loss of profits, or damages arising from reliance on
+    AI-generated outputs.
+  </p>
+
+  <h3>2.11 Changes to Terms</h3>
+  <p>
+    We may update these Terms from time to time. Continued use of the app after updates means you
+    accept the revised Terms.
+  </p>
+</section>
+
+<section>
+  <h2>3. Privacy Policy</h2>
+
+  <h3>3.1 Overview</h3>
+  <p>
+    This Privacy Policy explains how Dog Translator AI collects, uses, stores, and protects information
+    when you use the app.
+  </p>
+
+  <h3>3.2 Data We May Collect</h3>
+  <p>Depending on how you use the app, we may collect:</p>
+  <ul>
+    <li>Dog profile information, such as name, breed, age, personality, history, and behavior notes;</li>
+    <li>Photos, videos, audio, or text inputs you choose to upload or record;</li>
+    <li>AI analysis results, mood reports, behavior summaries, and app-generated outputs;</li>
+    <li>Account or authentication data, if login features are used;</li>
+    <li>Subscription status and purchase-related information provided by Apple;</li>
+    <li>Technical data such as device type, app version, crash logs, diagnostics, and usage events;</li>
+    <li>Support messages you send to us.</li>
+  </ul>
+
+  <h3>3.3 How We Use Data</h3>
+  <p>We may use data to:</p>
+  <ul>
+    <li>provide app features and AI-assisted dog behavior interpretation;</li>
+    <li>create and manage dog profiles;</li>
+    <li>generate daily behavior and mood insights;</li>
+    <li>improve app performance, safety, and reliability;</li>
+    <li>manage subscriptions and access rights;</li>
+    <li>respond to support requests;</li>
+    <li>detect abuse, fraud, technical problems, or policy violations;</li>
+    <li>comply with legal obligations.</li>
+  </ul>
+
+  <h3>3.4 Third-Party Services</h3>
+  <p>
+    The app may use third-party services for hosting, analytics, authentication, subscriptions,
+    AI processing, database storage, crash reporting, or app functionality.
+  </p>
+  <p>These may include, depending on the current app setup:</p>
+  <ul>
+    <li>Apple App Store / In-App Purchases</li>
+    <li>Firebase / Google Cloud</li>
+    <li>OpenAI or other AI service providers</li>
+    <li>Analytics or crash reporting tools</li>
+  </ul>
+  <p>
+    These providers may process data according to their own privacy policies and data processing terms.
+  </p>
+
+  <h3>3.5 AI Processing</h3>
+  <p>
+    Content you provide, such as text, audio, photos, videos, or behavior descriptions, may be processed
+    by AI systems to generate translations, insights, reports, or responses. Do not upload content that
+    you do not have the right to use or that contains sensitive personal information of others.
+  </p>
+
+  <h3>3.6 Data Sharing</h3>
+  <p>
+    We do not sell personal data. We may share data with service providers only as needed to operate,
+    improve, secure, or support the app, or when required by law.
+  </p>
+
+  <h3>3.7 Data Retention</h3>
+  <p>
+    We keep data only as long as necessary for app functionality, legal obligations, security,
+    dispute resolution, and legitimate business purposes. You may request deletion of your data
+    by contacting us.
+  </p>
+
+  <h3>3.8 Your Rights</h3>
+  <p>
+    Depending on your location, you may have rights to access, correct, delete, restrict, object to,
+    or receive a copy of your personal data. To exercise these rights, contact us at:
+    <a href="mailto:[knutbley@outlook.com]">[knutbley@outlook.com]</a>.
+  </p>
+
+  <h3>3.9 Children’s Privacy</h3>
+  <p>
+    Dog Translator AI is not intended for children under 13. If you are located in the European Union,
+    use by children may require consent from a parent or legal guardian depending on local law.
+  </p>
+
+  <h3>3.10 Security</h3>
+  <p>
+    We use reasonable technical and organizational measures to protect data. However, no digital service
+    can be guaranteed to be completely secure.
+  </p>
+
+  <h3>3.11 International Data Transfers</h3>
+  <p>
+    Data may be processed in countries outside your country of residence. Where required, we rely on
+    appropriate safeguards for international transfers.
+  </p>
+
+  <h3>3.12 App Store Privacy Information</h3>
+  <p>
+    The privacy information shown on the App Store product page should be read together with this
+    Privacy Policy. If app features or third-party services change, the privacy information may be updated.
+  </p>
+</section>
+
+<section>
+  <h2>4. Medical / Veterinary Disclaimer</h2>
+  <p>
+    Dog Translator AI cannot determine with certainty whether a dog is healthy, sick, injured, stressed,
+    anxious, aggressive, or in need of veterinary care. Any warnings, behavior alerts, or concerning
+    pattern notifications are general indicators only.
+  </p>
+  <p>
+    Always consult a qualified veterinarian for health-related concerns. In emergencies, contact a
+    veterinarian or emergency animal clinic immediately.
+  </p>
+</section>
+
+<section>
+  <h2>5. User Content Policy</h2>
+  <p>
+    You are responsible for any content you upload, record, submit, or share through the app.
+    You must have the necessary rights and permissions for such content.
+  </p>
+  <p>You must not upload or share content that:</p>
+  <ul>
+    <li>violates laws or third-party rights;</li>
+    <li>contains animal abuse, cruelty, or illegal activity;</li>
+    <li>contains harassment, hate, threats, or explicit content;</li>
+    <li>contains private information of others without permission;</li>
+    <li>contains copyrighted material without authorization.</li>
+  </ul>
+  <p>
+    We may remove content or restrict access if content violates this policy or creates legal,
+    safety, or technical risks.
+  </p>
+</section>
+
+<section>
+  <h2>6. Copyright / DMCA Policy</h2>
+  <p>
+    If you believe that content in or related to Dog Translator AI infringes your copyright,
+    please contact us with:
+  </p>
+  <ul>
+    <li>your name and contact information;</li>
+    <li>a description of the copyrighted work;</li>
+    <li>a description or location of the allegedly infringing content;</li>
+    <li>a statement that you believe in good faith that the use is unauthorized;</li>
+    <li>a statement that the information you provide is accurate;</li>
+    <li>your physical or electronic signature.</li>
+  </ul>
+  <p>
+    Copyright contact:
+    <a href="mailto:[knutbley@outlook.com]">[knutbley@outlook.com]</a>
+  </p>
+</section>
+
+<section>
+  <h2>7. Contact / Impressum</h2>
+  <p>
+    Responsible provider:
+  </p>
+  <p>
+    <strong>[Knut Bley]</strong><br>
+    [Klosterstraße 1]<br>
+    [26676 Barßel]<br>
+    Germany
+  </p>
+  <p>
+    Email: <a href="mailto:[knutbley@outlook.com]">[knutbley@outlook.com]</a><br>
+  </p>
+  <p>
+    Responsible for content according to applicable German law:<br>
+    [Knut Bley]
+  </p>
+</section>
+
+<section>
+  <h2>8. German Version / Deutsche Hinweise</h2>
+
+  <h3>Nutzungszweck</h3>
+  <p>
+    Dog Translator AI ist eine App zur KI-gestützten, spielerischen Interpretation von Hundeverhalten,
+    Lauten, Stimmungen und Nutzerangaben. Die App dient der Unterhaltung, Bildung und allgemeinen
+    Information.
+  </p>
+
+  <h3>Kein Ersatz für tierärztliche Beratung</h3>
+  <p>
+    Die App stellt keine medizinische, tierärztliche, diagnostische oder notfallbezogene Beratung dar.
+    Ergebnisse, Hinweise oder Warnungen dürfen nicht als gesicherte Diagnose verstanden werden.
+    Bei gesundheitlichen Auffälligkeiten, Schmerzen, Verletzungen, stark verändertem Verhalten oder
+    Unsicherheit sollte immer ein Tierarzt kontaktiert werden.
+  </p>
+
+  <h3>Datenschutz</h3>
+  <p>
+    Je nach Nutzung können Hundeprofildaten, hochgeladene Inhalte, Analyseergebnisse, technische Daten,
+    Nutzungsdaten und Supportanfragen verarbeitet werden. Diese Daten werden verwendet, um die App
+    bereitzustellen, Analysen zu erstellen, Funktionen zu verbessern, Abonnements zu verwalten und
+    Support zu leisten.
+  </p>
+
+  <h3>Kontakt</h3>
+  <p>
+    Datenschutz- und Supportanfragen bitte an:
+    <a href="mailto:[knutbley@outlook.com]">[knutbley@outlook.com]</a>
+  </p>
+</section>
+
+</main>
+
+<footer>
+  © <span id="year"></span> [Knut Bley]. All rights reserved.
+</footer>
+
+<script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+
+</body>
+</html>
